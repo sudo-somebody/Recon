@@ -13,7 +13,7 @@
    Estimate where an image may have been taken; treat results as clues, not proof.
 
 3. **[SunCalc](https://www.suncalc.org/)** ☀️  
-   Explore the sun’s position and sunlight phases for a chosen place and date.
+   Explore the sun’s position and sunlight phases, in order to estimate an accurate time a picture was taken.
 
 4. **[PimEyes — face search](https://pimeyes.com/en)** 🧑‍💻  
    Search for facial-image matches across publicly available websites; verify matches independently.
@@ -34,7 +34,7 @@
    View metadata embedded in files such as images and documents.
 
 10. **[Grabify](https://grabify.link/)** ⚠️  
-    Creates tracking links that can log visitor data; use only with informed consent.
+    Creates tracking links that can logs the victims IP and device details.
 
 11. **[IPPriv IP Lookup](https://www.ippriv.com/ip-lookup)** 🌐  
     Look up information associated with an IP address.
@@ -61,7 +61,7 @@
     Search for images and visually similar results across the web.
 
 19. **[Web Scraper extension](https://webscraper.io/web-scraper-extension)** 🧰  
-    Create point-and-click workflows to extract information from websites you’re authorized to access.
+    Scrape information from a specific website.
 
 20. **[Ahmia](https://ahmia.fi/)** 🧅  
-    Search publicly indexed Tor sites; avoid illegal content and respect applicable laws.
+    Search publicly indexed Tor sites, onion routing is required.
