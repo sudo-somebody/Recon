@@ -7,10 +7,10 @@
 ## 🔎 Tools
 
 1. **[Wayback Machine](https://web.archive/)** 🕰️  
-   Browse archived webpages and see how websites changed over time.
+   Browse archived webpages,tweets,posts. Nothing is completely wiped from the internet.
 
 2. **[GeoSpy alternative](https://oceanir.ai/geospy-alternative)** 📍  
-   Estimate where an image may have been taken; treat results as clues, not proof.
+   Estimate where an image was taken.
 
 3. **[SunCalc](https://www.suncalc.org/)** ☀️  
    Explore the sun’s position and sunlight phases, in order to estimate an accurate time a picture was taken.
@@ -43,13 +43,13 @@
     Scan a URL and inspect webpage resources and observed connections.
 
 13. **[Censys](https://search.censys.io/)** 🗺️  
-    Search internet-exposed hosts and certificates for authorized research.
+    Search internet-exposed hosts/websites and certificates for advanced research.
 
 14. **[PublicWWW](https://publicwww.com/)** 💻  
     Search publicly accessible website source code for text and code snippets.
 
 15. **[Whoxy](https://www.whoxy.com/)** 🏷️  
-    Search domain registration and WHOIS-related records.
+    Search domain registration and WHOIS-related records with the owners name/email/domain.
 
 16. **[OpenCorporates](https://opencorporates.com/)** 🏢  
     Search company records collected from public registries worldwide.
@@ -58,7 +58,7 @@
     Search records about sanctions, politically exposed people, and organizations.
 
 18. **[Yandex Images](https://yandex.com/images/)** 🖼️  
-    Search for images and visually similar results across the web.
+    Search for images and visually similar results across the web. It's better than google lens, due to censorship.
 
 19. **[Web Scraper extension](https://webscraper.io/web-scraper-extension)** 🧰  
     Scrape information from a specific website.
