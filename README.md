@@ -65,3 +65,9 @@
 
 20. **[Ahmia](https://ahmia.fi/)** 🧅  
     Search publicly indexed Tor sites, onion routing is required.
+
+21. **[Have I Been Pwned](https://haveibeenpwned.com/)** 🔐  
+    Check whether an email address appears in known data breaches.
+
+22. **[VirusTotal](https://www.virustotal.com/gui/)** 🦠  
+    Review security scan results for files, URLs, domains, and IP addresses.
