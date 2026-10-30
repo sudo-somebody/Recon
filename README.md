@@ -1,6 +1,6 @@
 # 🕵️ The Best Free OSINT Websites
 
-22 websites for open-source research and reconnaissance. Personally tested.
+23 websites for open-source research and reconnaissance, digital forensics too. Every website was personally tested.
 
 > ⚠️ Use these tools lawfully and ethically. Respect privacy, terms of service, and consent. Search results can be inaccurate—verify important findings independently. You are solely responsible for your own actions.
 
@@ -71,3 +71,7 @@
 
 22. **[Epieos](https://epieos.com/)** 🔎  
     Find google accounts from an email or phone number.
+
+23. **[MD5File Calculator](https://md5file.com/calculator)** 🔢  
+    Calculate MD5, SHA-1, SHA-256, and SHA-512 hashes for the files you've uploaded.
+
