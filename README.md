@@ -1,4 +1,4 @@
-# 🕵️ The Best Free OSINT Websites
+# 🕵️ The Best Free OSINT/D.G. Websites
 
 23 websites for open-source research and reconnaissance, digital forensics too. Every website was personally tested.
 
