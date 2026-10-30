@@ -19,7 +19,7 @@
    Search for facial-image matches across publicly available websites; verify matches independently.
 
 5. **[DorkGPT](https://www.dorkgpt.com/)** 🔍  
-   Generate focused search-engine queries for public-web research.
+   Generate focused search-engine queries for public-web research. Works for the majority of instances.
 
 6. **[EmailOSINT](https://emailosint.org/)** 📧  
    Investigate publicly available information associated with an email address.
