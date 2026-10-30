@@ -1,6 +1,6 @@
 # 🕵️ The Best Free OSINT Websites
 
-23 websites for open-source research and reconnaissance. Personally tested.
+22 websites for open-source research and reconnaissance. Personally tested.
 
 > ⚠️ Use these tools lawfully and ethically. Respect privacy, terms of service, and consent. Search results can be inaccurate—verify important findings independently. You are solely responsible for your own actions.
 
@@ -18,60 +18,56 @@
 4. **[PimEyes — face search](https://pimeyes.com/en)** 🧑‍💻  
    Search for facial-image matches across publicly available websites; verify matches independently.
 
-5. **[PimEyes — duplicate link](https://pimeyes.com/en)** 🔁  
-   This is the same face-search service above, not a username-search tool.
-
-6. **[DorkGPT](https://www.dorkgpt.com/)** 🔍  
+5. **[DorkGPT](https://www.dorkgpt.com/)** 🔍  
    Generate focused search-engine queries for public-web research.
 
-7. **[EmailOSINT](https://emailosint.org/)** 📧  
+6. **[EmailOSINT](https://emailosint.org/)** 📧  
    Investigate publicly available information associated with an email address.
 
-8. **[ThatsThem Reverse Phone Lookup](https://thatsthem.com/reverse-phone-lookup)** 📱  
+7. **[ThatsThem Reverse Phone Lookup](https://thatsthem.com/reverse-phone-lookup)** 📱  
    Search for publicly listed information associated with a phone number.
 
-9. **[MetadataKit](https://metadatakit.com/metadata-viewer)** 🗂️  
+8. **[MetadataKit](https://metadatakit.com/metadata-viewer)** 🗂️  
    View metadata embedded in files such as images and documents.
 
-10. **[Grabify](https://grabify.link/)** ⚠️  
-    Creates tracking links that can logs the victims IP and device details.
+9. **[Grabify](https://grabify.link/)** ⚠️  
+   Creates tracking links that can logs the victims IP and device details.
 
-11. **[IPPriv IP Lookup](https://www.ippriv.com/ip-lookup)** 🌐  
+10. **[IPPriv IP Lookup](https://www.ippriv.com/ip-lookup)** 🌐  
     Look up information associated with an IP address.
 
-12. **[urlscan.io](https://urlscan.io/#url)** 🛡️  
+11. **[urlscan.io](https://urlscan.io/#url)** 🛡️  
     Scan a URL and inspect webpage resources and observed connections.
 
-13. **[Censys](https://search.censys.io/)** 🗺️  
+12. **[Censys](https://search.censys.io/)** 🗺️  
     Search internet-exposed hosts/websites and certificates for advanced research.
 
-14. **[PublicWWW](https://publicwww.com/)** 💻  
+13. **[PublicWWW](https://publicwww.com/)** 💻  
     Search publicly accessible website source code for text and code snippets.
 
-15. **[Whoxy](https://www.whoxy.com/)** 🏷️  
+14. **[Whoxy](https://www.whoxy.com/)** 🏷️  
     Search domain registration and WHOIS-related records with the owners name/email/domain.
 
-16. **[OpenCorporates](https://opencorporates.com/)** 🏢  
+15. **[OpenCorporates](https://opencorporates.com/)** 🏢  
     Search company records collected from public registries worldwide.
 
-17. **[OpenSanctions](https://www.opensanctions.org/)** 📋  
+16. **[OpenSanctions](https://www.opensanctions.org/)** 📋  
     Search records about sanctions, politically exposed people, and organizations.
 
-18. **[Yandex Images](https://yandex.com/images/)** 🖼️  
+17. **[Yandex Images](https://yandex.com/images/)** 🖼️  
     Search for images and visually similar results across the web. It's better than google lens, due to censorship.
 
-19. **[Web Scraper extension](https://webscraper.io/web-scraper-extension)** 🧰  
+18. **[Web Scraper extension](https://webscraper.io/web-scraper-extension)** 🧰  
     Scrape information from a specific website.
 
-20. **[Ahmia](https://ahmia.fi/)** 🧅  
+19. **[Ahmia](https://ahmia.fi/)** 🧅  
     Search publicly indexed Tor sites, onion routing is required.
 
-21. **[Have I Been Pwned](https://haveibeenpwned.com/)** 🔐  
+20. **[Have I Been Pwned](https://haveibeenpwned.com/)** 🔐  
     Check whether an email address appears in known data breaches.
 
-22. **[VirusTotal](https://www.virustotal.com/gui/)** 🦠  
+21. **[VirusTotal](https://www.virustotal.com/gui/)** 🦠  
     Review security scan results for files, URLs, domains, and IP addresses.
 
-23. **[Epieos](https://epieos.com/)** 🔎  
+22. **[Epieos](https://epieos.com/)** 🔎  
     Find google accounts from an email or phone number.
-
