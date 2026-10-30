@@ -1,1 +1,67 @@
-# Recon
+# 🕵️ Free OSINT Tools
+
+20 websites for open-source research and reconnaissance. Personally tested.
+
+> ⚠️ Use these tools lawfully and ethically. Respect privacy, terms of service, and consent. Search results can be inaccurate—verify important findings independently.
+
+## 🔎 Tools
+
+1. **[Wayback Machine](https://web.archive/)** 🕰️  
+   Browse archived webpages and see how websites changed over time.
+
+2. **[GeoSpy alternative](https://oceanir.ai/geospy-alternative)** 📍  
+   Estimate where an image may have been taken; treat results as clues, not proof.
+
+3. **[SunCalc](https://www.suncalc.org/)** ☀️  
+   Explore the sun’s position and sunlight phases for a chosen place and date.
+
+4. **[PimEyes — face search](https://pimeyes.com/en)** 🧑‍💻  
+   Search for facial-image matches across publicly available websites; verify matches independently.
+
+5. **[PimEyes — duplicate link](https://pimeyes.com/en)** 🔁  
+   This is the same face-search service above, not a username-search tool.
+
+6. **[DorkGPT](https://www.dorkgpt.com/)** 🔍  
+   Generate focused search-engine queries for public-web research.
+
+7. **[EmailOSINT](https://emailosint.org/)** 📧  
+   Investigate publicly available information associated with an email address.
+
+8. **[ThatsThem Reverse Phone Lookup](https://thatsthem.com/reverse-phone-lookup)** 📱  
+   Search for publicly listed information associated with a phone number.
+
+9. **[MetadataKit](https://metadatakit.com/metadata-viewer)** 🗂️  
+   View metadata embedded in files such as images and documents.
+
+10. **[Grabify](https://grabify.link/)** ⚠️  
+    Creates tracking links that can log visitor data; use only with informed consent.
+
+11. **[IPPriv IP Lookup](https://www.ippriv.com/ip-lookup)** 🌐  
+    Look up information associated with an IP address.
+
+12. **[urlscan.io](https://urlscan.io/#url)** 🛡️  
+    Scan a URL and inspect webpage resources and observed connections.
+
+13. **[Censys](https://search.censys.io/)** 🗺️  
+    Search internet-exposed hosts and certificates for authorized research.
+
+14. **[PublicWWW](https://publicwww.com/)** 💻  
+    Search publicly accessible website source code for text and code snippets.
+
+15. **[Whoxy](https://www.whoxy.com/)** 🏷️  
+    Search domain registration and WHOIS-related records.
+
+16. **[OpenCorporates](https://opencorporates.com/)** 🏢  
+    Search company records collected from public registries worldwide.
+
+17. **[OpenSanctions](https://www.opensanctions.org/)** 📋  
+    Search records about sanctions, politically exposed people, and organizations.
+
+18. **[Yandex Images](https://yandex.com/images/)** 🖼️  
+    Search for images and visually similar results across the web.
+
+19. **[Web Scraper extension](https://webscraper.io/web-scraper-extension)** 🧰  
+    Create point-and-click workflows to extract information from websites you’re authorized to access.
+
+20. **[Ahmia](https://ahmia.fi/)** 🧅  
+    Search publicly indexed Tor sites; avoid illegal content and respect applicable laws.
