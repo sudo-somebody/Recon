@@ -1,6 +1,6 @@
 # 🕵️ The Best Free OSINT/D.F. Websites
 
-23 websites for open-source research, reconnaissance and digital forensics(D.F.). Every website was personally tested.
+24 websites for open-source research, reconnaissance and digital forensics(D.F.). Every website was personally tested.
 
 > ⚠️ Use these tools lawfully and ethically. Respect privacy, terms of service, and consent. Search results can be inaccurate—verify important findings independently. You are solely responsible for your own actions.
 
@@ -74,4 +74,8 @@
 
 23. **[MD5File Calculator](https://md5file.com/calculator)** 🔢  
     Calculate MD5, SHA-1, SHA-256, and SHA-512 hashes for the files you've uploaded.
+
+24. **[Shodan](https://www.shodan.io/)** 🌐  
+    Search public information about internet-connected devices and services, including exposed hosts and network services.
+
 
