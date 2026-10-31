@@ -1,6 +1,6 @@
 # 🕵️ The Best Free OSINT/D.F. Websites
 
-24 websites for open-source research, reconnaissance and digital forensics(D.F.). Every website was personally tested.
+25 websites for open-source research, reconnaissance and digital forensics(D.F.). Every website was personally tested.
 
 > ⚠️ Use these tools lawfully and ethically. Respect privacy, terms of service, and consent. Search results can be inaccurate—verify important findings independently. You are solely responsible for your own actions.
 
@@ -77,5 +77,8 @@
 
 24. **[Shodan](https://www.shodan.io/)** 🌐  
     Search public information about internet-connected devices and services, including exposed hosts and network services.
+
+25. **[FBI Vault](https://vault.fbi.gov/)** 🗃️  
+    Browse FBI records and media released under the Freedom of Information Act (FOIA).
 
 
