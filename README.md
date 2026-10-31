@@ -1,6 +1,6 @@
 # 🕵️ The Best Free OSINT/D.F. Websites
 
-27 websites for open-source research, reconnaissance and digital forensics(D.F.). Every website was personally tested.
+26 websites for open-source research, reconnaissance and digital forensics(D.F.). Every website was personally tested.
 
 > ⚠️ Use these tools lawfully and ethically. Respect privacy, terms of service, and consent. Search results can be inaccurate—verify important findings independently. You are solely responsible for your own actions.
 
@@ -81,8 +81,5 @@
 25. **[FBI Vault](https://vault.fbi.gov/)** 🗃️  
     Browse FBI records and media released under the Freedom of Information Act (FOIA).
 
-26. **[The Accountability Project](https://publicaccountability.org/)** 🗃️  
-    Search public records about people, organizations, and addresses.
-
-27. **[JudyRecords](https://www.judyrecords.com/)** ⚖️  
+26. **[JudyRecords](https://www.judyrecords.com/)** ⚖️  
     Search an index of U.S. court cases and lawsuits. verify results with official court records.
