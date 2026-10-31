@@ -1,6 +1,6 @@
-# 🕵️ The Best Free OSINT/D.F. Websites
+# 🕵️ The Best Free OSINT Websites
 
-26 websites for open-source research, reconnaissance and digital forensics(D.F.). Every website was personally tested.
+26 websites for open-source research and reconnaissance. Every website was personally tested.
 
 > ⚠️ Use these tools lawfully and ethically. Respect privacy, terms of service, and consent. Search results can be inaccurate—verify important findings independently. You are solely responsible for your own actions.
 
